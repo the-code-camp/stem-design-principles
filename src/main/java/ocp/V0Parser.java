@@ -37,18 +37,18 @@ public class V0Parser {
   }
 
   private void processDirective(String line) {
-
+    // process directive
   }
 
   private void runCustomCommand(String line) {
-
+    // custom command parser
   }
 
   private void executeScope(String scope) {
-
+    // execute scope
   }
 
   private void addToVariables(String line) {
-
+    // add to variables
   }
 }
