@@ -1,8 +1,6 @@
 package srp;
 
 import common.ValidationException;
-import srp.solution.MailMessage;
-import srp.solution.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
